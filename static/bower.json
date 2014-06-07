@@ -1,0 +1,20 @@
+{
+  "name": "simple_app_example",
+  "version": "0.0.0",
+  "homepage": "https://github.com/richstoner/simple_app",
+  "authors": [
+    "richstoner <stonerri@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1"
+  }
+}
